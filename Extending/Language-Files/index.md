@@ -13,7 +13,7 @@ Current languages that are included in the core are:
 - German
 - Spanish
 - French
-- Hebrew (Israel)
+- Hebrew
 - Italian
 - Japanese
 - Korean
